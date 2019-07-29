@@ -86,7 +86,7 @@ DATABASES = {
         'PORT': 3306,
         'USER': 'face',
         'PASSWORD': 'face',
-        'NAME': 'face_check',
+        'NAME': 'facecheck',
     }
 }
 
